@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kk-user-api/kk-user-api.iml" filepath="$PROJECT_DIR$/kk-user-api/kk-user-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kk-user-module.iml" filepath="$PROJECT_DIR$/kk-user-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kk-user-server/kk-user-server.iml" filepath="$PROJECT_DIR$/kk-user-server/kk-user-server.iml" />
+    </modules>
+  </component>
+</project>
