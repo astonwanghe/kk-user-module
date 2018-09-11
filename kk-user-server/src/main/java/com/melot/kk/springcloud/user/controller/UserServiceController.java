@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class UserServiceController implements UserService {
 
+    @Override
     public UserDTO getUser(int userId) {
         UserDTO userDTO = new UserDTO();
         userDTO.setUserId(userId);
